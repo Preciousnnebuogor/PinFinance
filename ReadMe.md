@@ -2,7 +2,6 @@
 
 A protocol for short-term lending and borrowing services through a peer-funding structure. At Pinfinance, we provide a groundbreaking approach to peer-to-peer group lending and borrowing that combines inclusivity, transparency, and control. While other lending platforms rely on centralized liquidity pools with predetermined and algorithm-driven interest rates, PinFinance flips the script.
 
-
 ## What sets up apart
 - __Near-Zero Interest Loans Via Peer-Funding Mechanisms__
 Our solutions allow users to access short-term, flexible, and expandable credit with little or no interest. By eliminating centralized liquidity pools, users themselves control inflow and outflow, ensuring autonomy over their funds, interest rates, if applicable, are determined by the participants, not the platform, creating a competitive and fair lending environment.
