@@ -1,0 +1,27 @@
+{
+  "contractAddress": "0x88dD6fd42B2b9581DE9d43B1AeB8cF09E67E34ef",
+  "functionName": "isVerified",
+  "inputCount": 1,
+  "requireArgUpdate": false,
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "user",
+          "type": "address"
+        }
+      ],
+      "name": "isVerified",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}
