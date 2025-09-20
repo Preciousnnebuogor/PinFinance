@@ -11,3 +11,13 @@ FlexPool is at the heart of our system. These user-centred pools can be permissi
 
 ## How it works
 For example, Bob, a crypto trader, creates a FlexPool with $500 unit liquidity and a maximum of five participants. He sets parameters: no interest, a 6-hour duration, and a collateral requirement in SFToken with 130 index. Once the quorum is achieved, Bob receives $2,500 to execute his trade, replenishes the pool before the 6-hour deadline, and the next participant in line gets access. This cycle continues until all participants benefit.
+
+## Optional yield generation strategy
+Collateral staked in the pool can optionally be channeled into the yield strategy protocol, generating additional profits during the loan period - an innovative way to maximize value
+<!-- https://youtu.be/2huZ2onFBb0 --> 
+
+## Problem
+- Financial exclusion.
+- High interest rate monopoly.
+- Centralized and rigid liquidity pattern.
+- Low transparency (especially for the lower classes of users).
