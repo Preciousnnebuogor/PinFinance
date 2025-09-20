@@ -14,10 +14,20 @@ For example, Bob, a crypto trader, creates a FlexPool with $500 unit liquidity a
 
 ## Optional yield generation strategy
 Collateral staked in the pool can optionally be channeled into the yield strategy protocol, generating additional profits during the loan period - an innovative way to maximize value
-<!-- https://youtu.be/2huZ2onFBb0 --> 
+
 
 ## Problem
 - Financial exclusion.
 - High interest rate monopoly.
 - Centralized and rigid liquidity pattern.
 - Low transparency (especially for the lower classes of users).
+
+## Solution
+- Financial inclusion for all classes of users.
+- Near-zero interest loans via peer-funding mechanism.
+- User-driven liquidity pool through our FlexPool design.
+- Enhanced flexibility and inclusion for all classes of users.
+- Trust and transparency.
+- Expandable liquidity.
+
+By blending traditional group lending practices with blockchain technology, Simplifi creates a financial solution that's transparent, inclusive, and uniquely user-focused.
